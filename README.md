@@ -1,23 +1,23 @@
-# Employee Management System
-This Employee Management System is a React-based application designed to simplify managing employee data in an organization. The app allows users to add, update, delete, and view employee details in a streamlined interface, helping HR and management teams handle employee information with ease.
+<h1>Employee Management System</h1>
 
-Features
-Add New Employee: Quickly add new employees with relevant information fields.
-Edit Employee Details: Update employee information as needed.
-Delete Employee Records: Remove employee records efficiently.
-Employee List View: View all employees in a concise list format.
+<p>
+  This Employee Management System is a React-based application designed to simplify managing employee data in an organization. 
+  The app allows users to add, update, delete, and view employee details in a streamlined interface, helping HR and management 
+  teams handle employee information with ease.
+</p>
 
-Technologies Used
-React: Frontend library for building a responsive, dynamic UI.
-Axios: For API calls (if applicable for data fetching/updating).
-CSS/Styled Components: For custom styling and UI design.
+<h2>Features</h2>
+<ul>
+  <li><strong>Add New Employee:</strong> Quickly add new employees with relevant information fields.</li>
+  <li><strong>Edit Employee Details:</strong> Update employee information as needed.</li>
+  <li><strong>Delete Employee Records:</strong> Remove employee records efficiently.</li>
+  <li><strong>Employee List View:</strong> View all employees in a concise list format.</li>
+  <li><strong>Assign work:</strong> Assign the work to the employe.</li>
+</ul>
 
-Add employees by filling in the necessary details.
-Update existing employee information.
-Delete employees as required.
-View all employees and search/filter if applicable.
-
-Future Enhancements
-Role-based Access: Enable different access levels for admins, HR, and employees.
-Database Integration: Connect to a database for persistent data storage.
-Enhanced Filtering/Sorting: Add filters for department, role, and other attributes.
+<h2>Technologies Used</h2>
+<ul>
+  <li><strong>React:</strong> Frontend library for building a responsive, dynamic UI.</li>
+  <li><strong>Axios:</strong> For API calls (if applicable for data fetching/updating).</li>
+  <li><strong>Tailwind CSS</strong> For custom styling and UI design.</li>
+</ul>
