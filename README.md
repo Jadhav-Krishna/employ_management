@@ -19,5 +19,5 @@
 <ul>
   <li><strong>React:</strong> Frontend library for building a responsive, dynamic UI.</li>
   <li><strong>Axios:</strong> For API calls (if applicable for data fetching/updating).</li>
-  <li><strong>Tailwind CSS</strong> For custom styling and UI design.</li>
+  <li><strong>Tailwind CSS:</strong> For custom styling and UI design.</li>
 </ul>
