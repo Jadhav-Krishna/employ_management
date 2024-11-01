@@ -4,12 +4,13 @@ import Header from '../../other/Header'
 import TaskListCounter from '../../other/TaskListCounter'
 import TaskList from '../../TaskList/TaskList'
 
-const EmployDashboard = () => {
+// eslint-disable-next-line react/prop-types,
+const EmployDashboard = ({data}) => {
   return (
     <div className='h-screen w-full bg-slate-950'>
-        <Header/>
-        <TaskListCounter/>
-        <TaskList/>
+        <Header data={data}/>
+        <TaskListCounter data={data}/>
+        <TaskList data={data}/>
     </div>
   )
 }
